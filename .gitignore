@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+inf/
+bot_versions/
+upload_bots/
+*.db
+*.db-shm
+*.db-wal
+.vscode/
