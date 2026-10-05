@@ -49,7 +49,7 @@ def keep_alive():
     print("Flask Canlı Tutma sunucusu başlatıldı.")
                               
                                                                                 
-TOKEN = "88446951067:AAHnVo5IXeK6Rt_hhxrpCRtppX32m2SdCaM"
+TOKEN = "8446951067:AAHje4Ci3L1DHVKuX0l6mt6scJsFzhoW3U8"
 try:
     OWNER_ID = int(os.environ.get("OWNER_ID", "8501534985"))
 except ValueError:
